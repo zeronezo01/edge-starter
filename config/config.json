@@ -1,0 +1,6 @@
+{
+    "address":"10.0.0.3/24",
+    "key":"temp",
+    "community":"whatever",
+    "super-node":"where.com:1234"
+}
