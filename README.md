@@ -1,4 +1,4 @@
-# edge-starter
+# n2n-starter
 针对**n2n**的边缘节点linux启动服务
 
 ---
